@@ -1,0 +1,40 @@
+{
+    "name": "Fluidity",
+    "type": "ERC20",
+    "symbol": "FLY",
+    "decimals": 6,
+    "website": "https://fluidity.money",
+    "description": "Fluidity Money (FLY) powers Fluidity Money tokens (Fluid Assets) including fUSDC. Fluid Assets are a 1-to-1 wrapped asset that expose holders to randomly paid rewards when they use their cryptocurrencies.",
+    "explorer": "https://arbiscan.io/token/0x000F1720A263f96532D1ac2bb9CDC12b72C6f386",
+    "status": "active",
+    "id": "0x000F1720A263f96532D1ac2bb9CDC12b72C6f386",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/fluiditylabs"
+        },
+        {
+            "name": "whitepaper",
+            "url": ""
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/fluidity"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/fluidity"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://fluidity.money/resources#whitepapers"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.fluidity.money/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+}
